@@ -9,4 +9,4 @@ run("Close");
 close();
 close();
 selectWindow("C1-hela-cells.tif");
-close();
+
